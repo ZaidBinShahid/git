@@ -1,0 +1,56 @@
+
+.header {
+    width: 25%;
+    height: 25%;
+}
+
+ul li a {
+    text-decoration: none;
+    color: white;
+}
+
+body {
+    text-align: center;
+    background-color: #2D2013;
+    color: white;
+}
+
+img {
+    width: 250px;
+    height: 250px;
+    margin-top: 5px;
+}
+
+hr {
+    height: 2px;
+    color: white;
+    background-color: white;
+}
+
+.wrapper {
+    display: inline-flex;
+}
+
+.brows{
+    width: 20%;
+    height: 20%;
+}
+
+.fix {
+    width: 30%;
+    height: 30%;    
+}
+
+.text{
+    text-decoration: none;
+    color: white;
+}
+
+.text:hover{
+    background-color: red;
+    color: white;
+}
+
+.color {
+    color: #d57d1f;
+}

@@ -1,0 +1,21 @@
+{"RandomIngredients":[
+    {
+        "Name": "Parslay",
+        "Image": "images/21.png"
+    },
+
+    {
+        "Name": "Biryani Masala",
+        "Image": "images/12.png"
+    },
+
+    {
+        "Name": "Parmigiano-reggiano",
+        "Image": "images/13.png"
+    },
+
+    {
+        "Name": "Coriander Seeds",
+        "Image": "images/24.png"
+    }
+]}

@@ -1,0 +1,44 @@
+{"latestMeals":[
+    {
+        "Name": "Chivito uruguayo",
+        "Image": "images/1.jpg"
+    },
+
+    {
+        "Name": "Walnut Roll Gužvara",
+        "Image": "images/2.jpg"
+    },
+
+    {
+        "Name": "Fresh sardines",
+        "Image": "images/3.jpg"
+    },
+
+    {
+        "Name": "Burek",
+        "Image": "images/4.jpg"
+    },
+
+    {
+        "Name": "Mushroom soup with buckwheat",
+        "Image": "images/5.jpg"
+    },
+
+    {
+        "Name": "Croatian Bean Stew",
+        "Image": "images/6.jpg"
+    },
+
+    {
+        "Name": "Traditional Croatian Goulash",
+        "Image": "images/7.jpg"
+    },
+
+    {
+        "Name": "Croatian lamb peka",
+        "Image": "images/8.jpg"
+    }
+
+]
+
+}

@@ -1,0 +1,21 @@
+{"PopularIngredients":[
+        {
+            "Name": "Chicken",
+            "Image": "images/9.png"
+        },
+
+        {
+            "Name": "Salmon",
+            "Image": "images/10.png"
+        },
+
+        {
+            "Name": "Beef",
+            "Image": "images/11.png"
+        },
+
+        {
+            "Name": "Pork",
+            "Image": "images/12.png"
+        }
+]}
